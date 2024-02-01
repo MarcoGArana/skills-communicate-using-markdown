@@ -7,4 +7,8 @@
 const helloVar = 'Hello world!';
 ```
 
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 add: Tittle and image
