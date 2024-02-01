@@ -1,2 +1,4 @@
 # This is an `<h1>`
-add: Tittle
+![Imagen de Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+add: Tittle and image
